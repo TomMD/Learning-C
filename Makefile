@@ -1,4 +1,4 @@
 all:
-      gcc Assignment-01/helloworld.c -o helloworld
+	gcc Assignment-01/helloworld.c -o helloworld
 clean:
-      rm -rf helloworld 
+	rm -rf helloworld 
